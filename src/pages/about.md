@@ -1,6 +1,6 @@
 ---
 layout: "../layouts/AboutLayout.astro"
-title: "All About relay.club"
+title: "你想知道的关于 relay.club 的一切"
 description: "Lorem ipsum dolor sit"
 pubDate: "Oct 21 2022"
 heroImage: "/placeholder-about.jpeg"
